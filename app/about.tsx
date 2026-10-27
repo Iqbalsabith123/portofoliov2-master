@@ -24,7 +24,7 @@ export default function About() {
               <Fade>
                 <div className="relative z-10 p-2 bg-background border border-text-secondary/10 rounded-3xl shadow-2xl overflow-hidden aspect-[4/5] w-full group transition-all duration-500 hover:shadow-[0_20px_40px_-5px_rgb(0,0,0,0.15)] dark:hover:shadow-[0_20px_40px_-5px_rgba(255,255,255,0.05)] hover:-translate-y-1">
                   <Image 
-                    src="/images/hero.jpg" 
+                    src="/images/profile.png" 
                     alt="Iqbal Sabith Firdaus" 
                     fill 
                     className="object-cover transition-all duration-700 scale-100 group-hover:scale-105 grayscale group-hover:grayscale-0 hover:grayscale-0" 
